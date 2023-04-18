@@ -1,0 +1,12 @@
+.project h2{
+    text-align: left;
+    font-size: 2rem;
+}
+.projects{
+    margin-top: 30px;
+}
+@media screen and (max-width:500px) {
+    .project h2{
+        font-size: 1.8rem;
+    }
+}   
