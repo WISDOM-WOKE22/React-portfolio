@@ -14,7 +14,11 @@ export default function About() {
             <li> <FaCheck className='abt-icon'/> JavaScript</li>
             <li> <FaCheck className='abt-icon'/> React JS</li>
             <li><FaCheck className='abt-icon'/> Node JS</li>
+            <li><FaCheck className='abt-icon'/> Express JS</li>
             <li><FaCheck className='abt-icon'/> MongoDB</li>
+            <li><FaCheck className='abt-icon'/> Next js</li>
+            <li><FaCheck className='abt-icon'/> SQLite</li>
+            <li><FaCheck className='abt-icon'/> Firebase</li>
         </ul>
       </div>
     </div>

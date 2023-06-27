@@ -28,8 +28,8 @@ export default function Projectbox() {
                 <li><FaCheck className='abt-icon'/>CoinGecko API</li>
             </ul>
             <div className='links'>
-                <a href='##' target='_blank' className='link'>Github <FaGithub className='github-icon'/></a>
-                <a href="##" target='_blank' className='demo-btn'>Live demo</a>
+                <a href='https://github.com/WISDOM-WOKE22/Zues-exchange' target='_blank' className='link'>Github <FaGithub className='github-icon'/></a>
+                <a href="https://zeus-exchange-bc97c.web.app/" target='_blank' className='demo-btn'>Live demo</a>
             </div>
         </div>
         </div>

@@ -30,18 +30,19 @@ export default function Nav() {
                          Projects
                         </a>
                     </li>
-                    <li className='list'>
+                    {/* <li className='list'>
                         <a href='#project'>
                          Blog
                         </a>
-                    </li>
+                    </li> */}
                     <li className='list'>
                         <a href='#contact'>
                          Contact Me
                         </a>
                     </li>
                     <li className='list'>
-                        <a href='https://github.com/WISDOM-WOKE22'>
+                        <a href='https://github.com/WISDOM-WOKE22' rel="noreferrer"
+                        target='_blank'>
                          Github
                         </a>
                     </li>
@@ -76,7 +77,7 @@ export default function Nav() {
                    </li>
                  <li>
                     <a href='https://github.com/WISDOM-WOKE22' 
-                    target='_blank'>
+                    target='_blank' rel="noreferrer">
 
                     Github
                     </a>

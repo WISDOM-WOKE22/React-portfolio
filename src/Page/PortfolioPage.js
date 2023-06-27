@@ -20,12 +20,14 @@ export default function PortfolioPage() {
                     </div>
                     <p className='introduction-text-2'>An ever learning, front-end developer that builds scaleable web applications with modern technologies </p>
                     <div className='contact-btn'>
+                      <a href='https://docs.google.com/document/d/1gl02NjzR1kxvUgrihxTkCVFzWi121_XBVyQFiaInxeM/edit?usp=sharing' target='_blank' rel="noreferrer">
                         <button className='btn'>Resume</button>
+                      </a>
                     </div>
                 </div>
                 <div className='Introduction-image'>
                     <div className='i-img'>
-                        <img src={Me}/>
+                        <img src={Me} alt='text'/>
                     </div>
                 </div>
             </div>
