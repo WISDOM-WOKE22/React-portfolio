@@ -16,7 +16,7 @@ export default function PortfolioPage() {
                     <div className='introduction-text-1'>
                         <h2> I'm Wisdom woke </h2>
                         <br/>
-                        <p> a Front-End Developer</p>
+                        <p> a Full-Stack Developer</p>
                     </div>
                     <p className='introduction-text-2'>An ever learning, front-end developer that builds scaleable web applications with modern technologies </p>
                     <div className='contact-btn'>
