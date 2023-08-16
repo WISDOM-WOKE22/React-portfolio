@@ -1,6 +1,7 @@
 import './Projectbox.css'
 import { FaCheck, FaGithub } from 'react-icons/fa'
 import ZuesExchange from '../../../assets/Zues-exchange.jpg'
+import Lecturefree from '../../../assets/lecturefree.png'
 import Portfolio1 from '../../../assets/Portfolio1.jpg'
 import Portfolio2 from '../../../assets/Portfolio2.jpg'
 import ShellNote from '../../../assets/Shell-Note.jpg'
@@ -10,6 +11,28 @@ import AlignNfts from '../../../assets/AlignNfts.jpg'
 export default function Projectbox() {
   return (
     <div className='project-box-container'>
+        <div className='project-box2'>
+        <div className='project-name1'>Lecturefree</div>
+        <div className='project-image'>
+            <img src={Lecturefree}/>
+        </div>        <div className='project-tech'>
+            <div className='project-name2'>Lecturefree</div>
+            <div className='about-project'>
+                Lecturefree is an online platform that enhances learning
+            </div>
+            <ul>
+                <li><FaCheck className='abt-icon'/>React js</li>
+                <li><FaCheck className='abt-icon'/>Node js</li>
+                <li><FaCheck className='abt-icon'/>Express js</li>
+                <li><FaCheck className='abt-icon'/>MongoDB Atlas</li>
+                <li><FaCheck className='abt-icon'/>GPT4 API</li>
+                <li><FaCheck className='abt-icon'/>AWS Dynamo</li>
+            </ul>
+            <div className='links'>
+                <a href="https://lecturefree.com" target='_blank' className='demo-btn'>Live demo</a>
+            </div>
+        </div>
+        </div>
         <div className='project-box1'>
         <div className='project-name1'>Zues Exchange</div>
         <div className='project-image'>

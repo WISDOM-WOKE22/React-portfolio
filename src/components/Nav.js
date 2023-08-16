@@ -66,7 +66,7 @@ export default function Nav() {
                     </a>
                     </li>
                  <li>
-                    <a href='#project'>
+                    <a href='https://blog.openreplay.com/authors/wisdom-woke/' target='_blank' rel="noreferrer">
                      Blog
                     </a>
                     </li>
